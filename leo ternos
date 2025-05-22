@@ -1,0 +1,17 @@
+sistema_loja/
+│
+├── app.py
+├── banco.sql
+├── loja.db         # (criado automaticamente)
+│
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── cadastrar_cliente.html
+│   ├── cadastrar_produto.html
+│   ├── registrar_estoque.html
+│   ├── registrar_venda.html
+│   ├── listar_clientes.html
+│   ├── listar_produtos.html
+│   ├── listar_vendas.html
+│   └── relatorio_financeiro.html
